@@ -1,4 +1,4 @@
-// TH2 | 23657801 | NGO DUC TRUNG | #STAMP
+// TH2 | 23657801 | NGO DUC TRUNG | #150281
 import React from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
